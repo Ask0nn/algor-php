@@ -1,0 +1,12 @@
+.form-control {
+    max-width: 200px;
+}
+
+.input-group {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+th,td {
+    vertical-align: middle;
+}
